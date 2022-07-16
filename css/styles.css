@@ -1,0 +1,30 @@
+/****** Tag Selector ******/
+/****** Class Selector ******/
+
+.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: relative;
+        left: 200px;
+}
+
+.blue {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+        bottom: 100px;
+}
+
+ .yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow; 
+    position: relative;
+        bottom: 200px;
+        left: 100px;  
+
+}
+
+/****** ID Selector ******/
